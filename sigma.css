@@ -1,0 +1,47 @@
+  .sigma{
+    border: 2px solid black;
+    padding: 10px; 
+	background-color: white;
+  }
+
+  .bg{
+    border: 2px solid black;
+    padding: 10px; 
+	background-color: cyan;
+  }
+  
+    .intro{
+    border: 2px solid black;
+    padding: 10px; 
+	background-color: yellow;
+  }
+  
+     .dude{
+    border: 2px solid black;
+    padding: 10px; 
+	background-color: pink;
+  }
+  
+         .container {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+        }
+        video {
+            width: 500px;
+            height: 400px;
+        }
+        .text {
+            margin-left: 20px; /* Adjust margin as needed */
+        }
+  .three{
+    border: 2px solid black;
+    padding: 10px; 
+	background-color: #7FFFD4;
+  }
+  
+  .final{
+    border: 2px solid black;
+    padding: 10px; 
+	background-color: #7FFF00;
+  }
